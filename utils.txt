@@ -3,3 +3,5 @@ newly added line
 new Utils functions are added using github
 
 .gitignore test
+
+utils changed but shud be ignored by bash
