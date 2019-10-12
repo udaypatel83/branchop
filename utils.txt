@@ -5,3 +5,5 @@ new Utils functions are added using github
 .gitignore test
 
 utils changed but shud be ignored by bash
+
+utils to be ignore now after running -- git rm --cached utils.txt command
