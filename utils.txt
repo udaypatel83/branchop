@@ -1,6 +1,3 @@
 utility functions
-<<<<<<< HEAD
 newly added line
-=======
 new Utils functions are added using github
->>>>>>> 9bfbf6aaf7c2331957702383b6d2381322a7d6b5
