@@ -1,2 +1,3 @@
 utility functions
 new function by user1
+new function added by user2
