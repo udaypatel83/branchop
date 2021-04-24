@@ -1,8 +1,9 @@
 version 1
 version 2 by user1
 version 2 added by user2
-<<<<<<< HEAD
-++++++++++++++++++++++++++++++
 user 1 has changed after deleting branch
-==============================
 after deleting branches - changes by user2
+
+
+user2 added new feature in index.txt
+
